@@ -1,1 +1,1 @@
-# ML-Lab-th-sem
+# ML-Lab-7th-sem
